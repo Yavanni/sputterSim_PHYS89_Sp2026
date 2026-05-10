@@ -5,5 +5,5 @@ This project contains a Jupyter notebook exported from Google Colab.
 
 ### 🚀 Run on DataHub
 Click the link below to open this notebook directly in UC Berkeley's DataHub:
-[Launch on DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FYavanni%2FsputterSim_PHYS89_Sp2026.git&urlpath=tree%2FsputterSim_PHYS89_Sp2026.git%2FGC_sputterSim&branch=main)
+[Launch on DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FYavanni%2FsputterSim_PHYS89_Sp2026.git&urlpath=tree%2FsputterSim_PHYS89_Sp2026.git%2FGC_sputterSim.ipynb&branch=main)
 
